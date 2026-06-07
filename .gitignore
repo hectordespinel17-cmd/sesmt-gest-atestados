@@ -1,0 +1,14 @@
+# Dados sensíveis
+sesmt.db
+config.json
+*.db
+sesmt_data/
+saidas/
+_backups/
+entradas/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc

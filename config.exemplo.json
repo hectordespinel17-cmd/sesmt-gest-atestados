@@ -1,0 +1,10 @@
+{
+  "senha_sesmt": "SUA_SENHA_AQUI",
+  "senha_admin": "SENHA_DO_SUPERVISOR",
+  "whitelist_ips": [],
+  "porta": 5050,
+  "caminho_base_dp_funcionarios": "C:\\caminho\\para\\funcionarios",
+  "caminho_dados_locais": "C:\\caminho\\para\\sesmt_data",
+  "caminho_saidas": "C:\\caminho\\para\\saidas",
+  "caminho_backups": "C:\\caminho\\para\\_backups"
+}
